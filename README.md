@@ -1,1 +1,1 @@
-# solana-bootcamp-labs
+# Лабораторні роботи з Solana Bootcamp
