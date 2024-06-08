@@ -2,6 +2,6 @@
 
 **Результат роботи програми:**
 
-<p align="center">
+<p>
   <img src="./img/result.png">
 </p>
