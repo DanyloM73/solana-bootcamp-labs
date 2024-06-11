@@ -26,10 +26,18 @@
   <img src="./img/result4.png">
 </p>
 
+<p>
+  <img src="./img/result41.png">
+</p>
+
 ## Переказ токена, але так, аби SOL за транзакцію оплатив би отримувач
 
 **Результат роботи програми `transaction-by-recipient`:**
 
 <p>
   <img src="./img/result5.png">
+</p>
+
+<p>
+  <img src="./img/result51.png">
 </p>
